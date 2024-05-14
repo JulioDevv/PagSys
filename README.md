@@ -27,7 +27,7 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 ### Windows:
 
-![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Windows_10_logo_2012.svg/240px-Microsoft_Windows_10_logo_2012.svg.png)
+![Windows](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrbzlkOXZiZGhsejRzZGRrZHc0emdnenN2aGozeHJiZTgxZ3JndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YcLtmnhYyUlbfq/giphy.gif)
 
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
@@ -65,7 +65,7 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 ### macOS:
 
-![macOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MacOS_logo_%282017%29.svg/240px-MacOS_logo_%282017%29.svg.png)
+![macOS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQzemV0eTM1d2h0YzE2aHF0eW1wNTFzM3JyNnc3ZHhyeTJucDRqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bfrlODgSLqXxS/giphy.gif)
 
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
