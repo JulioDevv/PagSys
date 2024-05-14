@@ -1,4 +1,4 @@
-# Pagsys - Sistema de Gerenciamento
+# Pagsys - Sistema de Gerenciamento de Pagamentos e Matrículas
 
 O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagamentos e matrículas de cursos ministrados por uma professora. Ele oferece funcionalidades para administração de usuários, clientes, pagamentos, relatórios e muito mais.
 
@@ -27,7 +27,7 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 ### Windows:
 
-![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/240px-Windows_10_Logo.svg.png)
+![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Windows_10_logo_2012.svg/240px-Microsoft_Windows_10_logo_2012.svg.png)
 
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
@@ -65,7 +65,7 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 ### macOS:
 
-![macOS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Apple_macOS_logo.svg/240px-Apple_macOS_logo.svg.png)
+![macOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MacOS_logo_%282017%29.svg/240px-MacOS_logo_%282017%29.svg.png)
 
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
