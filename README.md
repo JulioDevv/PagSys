@@ -27,6 +27,8 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 ### Windows:
 
+![Windows](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
+
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
 
@@ -37,6 +39,8 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 3. **MySQL**: Baixe e instale o MySQL a partir do site oficial: [MySQL](https://www.mysql.com/).
 
 ### Linux:
+
+![Linux](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 1. **Node.js**: Abra o terminal e execute os seguintes comandos para instalar o Node.js:
 
@@ -60,6 +64,8 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
     ```
 
 ### macOS:
+
+![macOS](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 1. **Node.js**: Baixe e instale o Node.js a partir do site oficial: [Node.js](https://nodejs.org/).
 2. **Express.js**: Após instalar o Node.js, abra o terminal e execute o seguinte comando para instalar o Express.js globalmente:
@@ -97,3 +103,6 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests ou criar issues para discutir novas funcionalidades, problemas ou melhorias.
 
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
