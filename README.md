@@ -21,7 +21,7 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 ## Tecnologias Utilizadas
 
 - Backend: MySQL, Node.js, Express.js.
-- Frontend: [Em branco por enquanto].
+- Frontend: UDFN
 
 ## Configuração do Ambiente
 
