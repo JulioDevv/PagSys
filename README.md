@@ -103,6 +103,4 @@ O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagame
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests ou criar issues para discutir novas funcionalidades, problemas ou melhorias.
 
-## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
