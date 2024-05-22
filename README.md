@@ -1,4 +1,4 @@
-# Pagsys - Sistema de Gerenciamento de Pagamentos e Matrículas
+# Pagsys - 
 
 O Pagsys é um sistema web desenvolvido para facilitar o gerenciamento de pagamentos e matrículas de cursos ministrados por uma professora. Ele oferece funcionalidades para administração de usuários, clientes, pagamentos, relatórios e muito mais.
 
